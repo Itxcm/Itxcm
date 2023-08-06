@@ -20,16 +20,19 @@
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap"/>
 <img src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku"/>
 </p>
-
-
-
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=Itxcm&show_icons=true&theme=tokyonight&line_height=40">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Itxcm&theme=radical">
+<p style="display: flex;align-items: center;justify-content: space-around;">
+  <img width="100%" src = "https://github-readme-stats.vercel.app/api?username=Itxcm&show_icons=true&theme=tokyonight&line_height=27">
+  <img height="100%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Itxcm&theme=radical">
 </p>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Itxcm&theme=redical)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img  src = "https://github-readme-activity-graph.vercel.app/graph?username=Itxcm&theme=redical">
 
 <p align = "center">
-<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Itxcm&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Itxcm&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
 </p>
+
+<p align = "center">
+<img  src="https://github-profile-trophy.vercel.app/?username=Itxcm&theme=darkhub&row=1&column=6" />
+</p>
+
+[![MasterHead](https://img.itxcm.cn/avatar/avatar.jpg)](https://github.com/Itxcm)
