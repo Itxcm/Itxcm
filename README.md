@@ -23,7 +23,7 @@
 <img src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku"/>
 </p>
 
-<p style="display: flex;align-items: center;justify-content: space-around;">
+<p align="center">
   <img  src = "https://github-readme-stats.vercel.app/api?username=Itxcm&show_icons=true&theme=tokyonight&line_height=40">
   <img  src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Itxcm&theme=radical">
 </p>
