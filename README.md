@@ -42,6 +42,9 @@
 
 <h2 align="center">座右铭 🌈</h2>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=往者不谏，来者可追。&author=《 论语 ·微子》" />
-
+<p align = "center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=往者不谏，来者可追。&author=论语" />
+</p>
+<p align = "center">
 <img src="https://komarev.com/ghpvc/?username=Itxcm&color=dc143c">
+</p>
